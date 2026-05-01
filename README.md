@@ -47,3 +47,4 @@ How to Run the Project
 git clone https://github.com/yourusername/fashionhub.git
 2.Open the project folder
 3.Double click index.html
+OR open with Live Server in VS Code.
