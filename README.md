@@ -39,3 +39,11 @@ FashionHub/
 │
 └── js/
     └── script.js
+
+
+
+How to Run the Project
+1.Download or clone the repository
+git clone https://github.com/yourusername/fashionhub.git
+2.Open the project folder
+3.Double click index.html
