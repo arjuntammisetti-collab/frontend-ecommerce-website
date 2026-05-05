@@ -2,9 +2,7 @@
 
 FashionHub is a modern frontend e-commerce website built using HTML, CSS, and JavaScript. This project is designed to showcase a stylish online shopping interface with product listings, shopping cart functionality, and responsive design.
 
-## Live Preview
 
-(Add your GitHub Pages / Netlify link here later)
 
 ## Features
 
@@ -42,6 +40,11 @@ FashionHub/
 
 
 
+
+
+
+
+## opening the website
 How to Run the Project
 1.Download or clone the repository
 git clone https://github.com/yourusername/fashionhub.git
